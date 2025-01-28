@@ -19,15 +19,7 @@ F I N A L P R O J E C T
  |       R E A D M E . m d 
  
  |       
- 
- + - - - f i g u r e s 
- 
- |               y m 3 0 1 9 _ l c 3 8 2 6 _ g c p _ w o r k _ e x a m p l e _ s c r e e n s h o t _ 1 . p n g 
- 
- |               y m 3 0 1 9 _ l c 3 8 2 6 _ g c p _ w o r k _ e x a m p l e _ s c r e e n s h o t _ 2 . p n g 
- 
- |               y m 3 0 1 9 _ l c 3 8 2 6 _ g c p _ w o r k _ e x a m p l e _ s c r e e n s h o t _ 3 . p n g 
- 
+
  |               
  
  \ - - - u t i l s 
